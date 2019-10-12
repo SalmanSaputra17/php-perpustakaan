@@ -1,0 +1,59 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: #e0f2f1;
+}
+.main{
+	width: 100%;
+	height: 70px;
+	padding: 20px;
+	background-color: #004d40;
+	border-bottom: 1px solid rgba(189, 195, 199, .7);
+}
+.navigation{
+	width: 3%;
+	padding: 5px;
+}
+.navigation .button-collapse{
+	color: #fff;
+}
+.progress{
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+.banner{
+	width: 100%;
+	height: 300px;
+	background-color: #004d40;
+}
+.bann-caption{
+	font-size: 30px;
+	padding-top: 70px;
+}
+.bann-caption .bold{
+	font-weight: 500;
+}
+.card-panel{
+	height: 100px;
+	color: #757575; 
+}
+.card-panel:hover{
+	color: #004d40;
+	text-decoration: underline; 
+}
+.card .card-image img{
+	height: 200px;
+} 
+.tap-target{
+	background-color: #00897b;
+}
+.tap-target .tap-target-content{
+	padding: 10px;
+}
+.error{
+	height: 50px;
+}
+table{
+	overflow: scroll;
+}

@@ -1,0 +1,20 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: #e0f2f1;
+}
+.wrapper{
+	margin-top: 5%;
+	border-radius: 12px;
+	background-color: #fafafa;
+}
+.wrapper .caption{
+	font-size: 32px;
+}
+.wrapper .suggest{
+	padding: 5px;
+}
+.wrapper .suggest:hover{
+	background-color: #e0e0e0;
+	text-decoration: underline; 
+}
